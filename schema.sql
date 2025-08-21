@@ -1,0 +1,1 @@
+-- SQL schema for sessions, messages, dice_rolls
